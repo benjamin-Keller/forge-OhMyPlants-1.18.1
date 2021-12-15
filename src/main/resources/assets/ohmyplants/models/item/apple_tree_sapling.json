@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ohmyplants:item/apple_tree"
+    "layer0": "ohmyplants:item/apple_tree_sapling"
   }
 }
